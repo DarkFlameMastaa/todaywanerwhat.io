@@ -1,0 +1,20 @@
+{
+  "name": "todaywanerwhat",
+  "version": "1.0.0",
+  "description": "今天玩啥捏",
+  "main": "wanerwhat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "public":"git status &&git add . &&git commit -m '第一版' &&git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DarkFlameMastaa/todaywanerwhat.io.git"
+  },
+  "author": "下雨天才有好心情DFM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkFlameMastaa/todaywanerwhat.io/issues"
+  },
+  "homepage": "https://github.com/DarkFlameMastaa/todaywanerwhat.io#readme"
+}
